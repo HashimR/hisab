@@ -1,0 +1,10 @@
+env: prod
+
+jwt-key: <secrets-manager>
+lean-app-token: <secrets-manager>
+
+main-db-host: hisab-main-db.czogkeweu4ks.eu-west-1.rds.amazonaws.com
+main-db-port: '3306'
+main-db-name: main
+main-db-username: <secrets-manager>
+main-db-password: <secrets-manager>

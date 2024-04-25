@@ -1,0 +1,10 @@
+env: local
+
+jwt-key: <secrets-manager>
+lean-app-token: <secrets-manager>
+
+main-db-host: localhost
+main-db-port: '3306'
+main-db-name: main
+main-db-username: hisab_husky
+main-db-password: password

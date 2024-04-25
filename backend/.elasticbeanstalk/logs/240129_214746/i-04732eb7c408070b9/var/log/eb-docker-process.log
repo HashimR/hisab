@@ -1,0 +1,9 @@
+2024/01/27 13:32:49.394365 [INFO] Loading Manifest...
+2024/01/27 13:32:49.412908 [INFO] Running command /bin/sh -c /opt/aws/bin/cfn-get-metadata -s arn:aws:cloudformation:eu-west-1:471947097906:stack/awseb-e-8gmkc7rmw6-stack/490911e0-bd18-11ee-b0a0-02053dd7f0eb -r AWSEBAutoScalingGroup --region eu-west-1
+2024/01/27 13:32:49.948662 [INFO] Running command /bin/sh -c /opt/aws/bin/cfn-get-metadata -s arn:aws:cloudformation:eu-west-1:471947097906:stack/awseb-e-8gmkc7rmw6-stack/490911e0-bd18-11ee-b0a0-02053dd7f0eb -r AWSEBBeanstalkMetadata --region eu-west-1
+2024/01/27 13:32:50.580483 [INFO] Checking if docker is running...
+2024/01/27 13:32:50.580512 [INFO] Fetch current app container id...
+2024/01/27 13:32:50.580610 [INFO] Running command /bin/sh -c docker ps | grep 8efb9b8df0a9
+2024/01/27 13:32:50.629968 [INFO] 8efb9b8df0a9   7a4ecba01501   "python /tmp/applica…"   9 seconds ago   Up 8 seconds   8000/tcp   elated_noether
+
+2024/01/27 13:32:50.630011 [INFO] Running command /bin/sh -c docker wait  8efb9b8df0a9

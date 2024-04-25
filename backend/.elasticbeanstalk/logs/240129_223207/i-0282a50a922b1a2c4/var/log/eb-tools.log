@@ -1,0 +1,5 @@
+2024/01/29 18:23:13.935377 [INFO] Cleaning log publish record...
+2024/01/29 18:23:13.935415 [INFO] Start log publish job.
+2024/01/29 18:23:13.935419 [INFO] Start publish file /tmp/BundleLogs-1706552593875.zip
+2024/01/29 18:23:13.991567 [INFO] Successful upload file /tmp/BundleLogs-1706552593875.zip to s3 resources/environments/logs/bundle/e-8gmkc7rmw6/i-0282a50a922b1a2c4/BundleLogs-1706552593875.zip
+2024/01/29 18:23:13.991698 [INFO] Finished log publish job.

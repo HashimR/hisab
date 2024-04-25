@@ -1,0 +1,9 @@
+CREATE TABLE banks (
+   id INT AUTO_INCREMENT PRIMARY KEY,
+   name VARCHAR(255) NOT NULL UNIQUE,
+   lean_identifier VARCHAR(255) NOT NULL,
+   logo VARCHAR(255),
+   main_color VARCHAR(255),
+   background_color VARCHAR(20),
+   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

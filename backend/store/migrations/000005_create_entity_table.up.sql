@@ -1,0 +1,8 @@
+CREATE TABLE entity (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    lean_id VARCHAR(255) NOT NULL UNIQUE,
+    lean_user_id VARCHAR(255) NOT NULL,
+    bank_id INT NOT NULL,
+    permissions VARCHAR(255) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);

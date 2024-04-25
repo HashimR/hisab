@@ -1,0 +1,36 @@
+2024-01-29 18:17:39,433 [DEBUG] CloudFormation client initialized with endpoint https://cloudformation.eu-west-1.amazonaws.com
+2024-01-29 18:17:39,433 [DEBUG] SQS client initialized with endpoint https://sqs.eu-west-1.amazonaws.com
+2024-01-29 18:17:39,433 [DEBUG] CloudFormation client initialized with endpoint https://cloudformation.eu-west-1.amazonaws.com
+2024-01-29 18:17:39,433 [DEBUG] Enabled single threading mode.
+2024-01-29 18:17:39,434 [DEBUG] Creating /var/lib/cfn-hup/data
+2024-01-29 18:17:39,449 [INFO] No umask value specified in config file. Using the default one: 0o22
+2024-01-29 18:17:39,975 [INFO] Refreshing listener credentials
+2024-01-29 18:17:40,127 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2024-01-29 18:19:43,293 [INFO] Received command ElasticBeanstalkCommand-AWSEBAutoScalingGroup (invocation id: 67e2569b-98ec-4c5b-a7c4-ebd5a0f0b180)
+2024-01-29 18:19:43,293 [INFO] Running action for aws-eb-command-handler
+2024-01-29 18:20:12,513 [INFO] Action for aws-eb-command-handler succeeded, returning SUCCESS
+2024-01-29 18:21:36,700 [INFO] Received command ElasticBeanstalkCommand-AWSEBAutoScalingGroup (invocation id: 21e260ea-4bb2-464d-a869-42033727fd73)
+2024-01-29 18:21:36,700 [INFO] Running action for aws-eb-command-handler
+2024-01-29 18:22:22,084 [INFO] Action for aws-eb-command-handler succeeded, returning SUCCESS
+2024-01-29 18:22:42,258 [INFO] command processing is alive.
+2024-01-29 18:23:12,725 [INFO] Received command ElasticBeanstalkCommand-AWSEBAutoScalingGroup (invocation id: ddf41423-494f-4d0b-a74b-4f9337c0c021)
+2024-01-29 18:23:12,725 [INFO] Running action for aws-eb-command-handler
+2024-01-29 18:23:14,000 [INFO] Action for aws-eb-command-handler succeeded, returning SUCCESS
+2024-01-29 18:27:54,953 [INFO] command processing is alive.
+2024-01-29 18:29:19,169 [INFO] Received command ElasticBeanstalkCommand-AWSEBAutoScalingGroup (invocation id: 7617f1f8-6e97-4a6b-99a5-4a684a04315e)
+2024-01-29 18:29:19,169 [INFO] Running action for aws-eb-command-handler
+2024-01-29 18:29:44,729 [INFO] Action for aws-eb-command-handler succeeded, returning SUCCESS
+2024-01-29 18:32:02,487 [INFO] Received command ElasticBeanstalkCommand-AWSEBAutoScalingGroup (invocation id: eca36d6a-fefd-4f70-8cdc-3f9e4c9a39c0)
+2024-01-29 18:32:02,488 [INFO] Running action for aws-eb-command-handler
+2024-01-29 18:32:03,833 [INFO] Action for aws-eb-command-handler succeeded, returning SUCCESS
+2024-01-29 18:33:04,153 [INFO] command processing is alive.
+2024-01-29 18:38:05,026 [INFO] command processing is alive.
+2024-01-29 18:43:05,880 [INFO] command processing is alive.
+2024-01-29 18:47:01,651 [INFO] Received command ElasticBeanstalkCommand-AWSEBAutoScalingGroup (invocation id: ac61dc50-42c3-487d-be56-e3c1d902440d)
+2024-01-29 18:47:01,651 [INFO] Running action for aws-eb-command-handler
+2024-01-29 18:47:26,718 [INFO] Action for aws-eb-command-handler succeeded, returning SUCCESS
+2024-01-29 18:47:39,128 [INFO] Refreshing listener credentials
+2024-01-29 18:47:39,216 [INFO] Scheduling next credential refresh in 1799.0 seconds
+2024-01-29 18:48:06,934 [INFO] command processing is alive.
+2024-01-29 18:48:20,524 [INFO] Received command ElasticBeanstalkCommand-AWSEBAutoScalingGroup (invocation id: 360e5811-af6e-4086-99b6-af93375cbd04)
+2024-01-29 18:48:20,524 [INFO] Running action for aws-eb-command-handler

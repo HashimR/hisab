@@ -1,0 +1,236 @@
+{
+  "transactions": [
+    {
+      "id": 123456,
+      "name": "Carrefour",
+      "amount": -200.75,
+      "date_time": "2023-11-01 10:15:00",
+      "category": "Groceries",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 345678,
+      "name": "Lulu Hypermarket",
+      "amount": 90.25,
+      "date_time": "2023-11-02 15:45:00",
+      "category": "Groceries",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 789012,
+      "name": "VOX Cinemas",
+      "amount": -85.50,
+      "date_time": "2023-11-03 20:30:00",
+      "category": "Entertainment",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 567890,
+      "name": "Starbucks",
+      "amount": -20.50,
+      "date_time": "2023-11-04 08:30:00",
+      "category": "Food",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 901234,
+      "name": "DEWA",
+      "amount": 200.00,
+      "date_time": "2023-11-05 12:00:00",
+      "category": "Utilities",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 567890,
+      "name": "Etihad Airways",
+      "amount": 420.00,
+      "date_time": "2023-11-06 09:30:00",
+      "category": "Travel",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 456789,
+      "name": "CinemaCity",
+      "amount": 75.00,
+      "date_time": "2023-11-07 21:10:00",
+      "category": "Entertainment",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 123456,
+      "name": "KFC",
+      "amount": 32.75,
+      "date_time": "2023-11-08 13:15:00",
+      "category": "Food",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 234567,
+      "name": "Dubai Metro",
+      "amount": 15.00,
+      "date_time": "2023-11-09 19:50:00",
+      "category": "Transportation",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 678901,
+      "name": "Etisalat",
+      "amount": 110.00,
+      "date_time": "2023-11-10 14:20:00",
+      "category": "Utilities",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 890123,
+      "name": "Dubai Taxi",
+      "amount": 38.75,
+      "date_time": "2023-11-11 16:10:00",
+      "category": "Transportation",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 678901,
+      "name": "Amazon AE",
+      "amount": 120.00,
+      "date_time": "2023-11-12 13:45:00",
+      "category": "Shopping",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 234567,
+      "name": "McDonald's",
+      "amount": 27.75,
+      "date_time": "2023-11-13 19:05:00",
+      "category": "Food",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 123456,
+      "name": "Spinneys",
+      "amount": 85.75,
+      "date_time": "2023-11-14 14:30:00",
+      "category": "Groceries",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 789012,
+      "name": "Etihad Cinema",
+      "amount": 70.00,
+      "date_time": "2023-11-15 21:30:00",
+      "category": "Entertainment",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 901234,
+      "name": "Careem",
+      "amount": 55.25,
+      "date_time": "2023-11-16 11:30:00",
+      "category": "Transportation",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 890123,
+      "name": "Mall of the Emirates",
+      "amount": 180.00,
+      "date_time": "2023-11-17 16:55:00",
+      "category": "Shopping",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 567890,
+      "name": "Namshi",
+      "amount": 60.50,
+      "date_time": "2023-11-18 10:05:00",
+      "category": "Shopping",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 456789,
+      "name": "Careem",
+      "amount": 40.25,
+      "date_time": "2023-11-19 08:00:00",
+      "category": "Transportation",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 234567,
+      "name": "Careem",
+      "amount": 45.75,
+      "date_time": "2023-11-20 17:20:00",
+      "category": "Transportation",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 901234,
+      "name": "Burger King",
+      "amount": 15.50,
+      "date_time": "2023-11-21 18:45:00",
+      "category": "Food",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 678901,
+      "name": "Careem",
+      "amount": 40.25,
+      "date_time": "2023-11-22 08:00:00",
+      "category": "Transportation",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 890123,
+      "name": "McDonald's",
+      "amount": 22.50,
+      "date_time": "2023-11-23 12:20:00",
+      "category": "Food",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 123456,
+      "name": "Careem",
+      "amount": 45.75,
+      "date_time": "2023-11-24 17:20:00",
+      "category": "Transportation",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 567890,
+      "name": "Careem",
+      "amount": 38.75,
+      "date_time": "2023-11-25 16:10:00",
+      "category": "Transportation",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 789012,
+      "name": "Careem",
+      "amount": 40.25,
+      "date_time": "2023-11-26 08:00:00",
+      "category": "Transportation",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 234567,
+      "name": "Careem",
+      "amount": 32.75,
+      "date_time": "2023-11-27 13:15:00",
+      "category": "Transportation",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 345678,
+      "name": "McDonald's",
+      "amount": 27.75,
+      "date_time": "2023-11-28 19:05:00",
+      "category": "Food",
+      "image_url": "https://placehold.co/500x500"
+    },
+    {
+      "id": 456789,
+      "name": "Careem",
+      "amount": 40.25,
+      "date_time": "2023-11-29 08:00:00",
+      "category": "Transportation",
+      "image_url": "https://placehold.co/500x500"
+    }
+  ]
+}

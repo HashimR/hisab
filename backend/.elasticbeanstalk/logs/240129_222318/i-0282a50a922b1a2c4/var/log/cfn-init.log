@@ -1,0 +1,50 @@
+2024-01-29 18:05:40,295 [INFO] -----------------------Starting build-----------------------
+2024-01-29 18:05:40,314 [INFO] Running configSets: _OnInstanceBoot
+2024-01-29 18:05:40,317 [INFO] Running configSet _OnInstanceBoot
+2024-01-29 18:05:40,320 [INFO] Running config AWSEBBaseConfig
+2024-01-29 18:05:41,057 [INFO] Command clearbackupfiles succeeded
+2024-01-29 18:05:41,072 [INFO] Running config AWSEBCfnHupEndpointOverride
+2024-01-29 18:05:41,079 [INFO] Command clearbackupfiles succeeded
+2024-01-29 18:05:41,081 [INFO] ConfigSets completed
+2024-01-29 18:05:41,082 [INFO] -----------------------Build complete-----------------------
+2024-01-29 18:17:31,100 [INFO] -----------------------Starting build-----------------------
+2024-01-29 18:17:31,117 [INFO] Running configSets: _OnInstanceBoot
+2024-01-29 18:17:31,121 [INFO] Running configSet _OnInstanceBoot
+2024-01-29 18:17:31,124 [INFO] Running config AWSEBBaseConfig
+2024-01-29 18:17:31,765 [INFO] Command clearbackupfiles succeeded
+2024-01-29 18:17:31,780 [INFO] Running config AWSEBCfnHupEndpointOverride
+2024-01-29 18:17:31,787 [INFO] Command clearbackupfiles succeeded
+2024-01-29 18:17:31,789 [INFO] ConfigSets completed
+2024-01-29 18:17:31,789 [INFO] -----------------------Build complete-----------------------
+2024-01-29 18:17:44,355 [INFO] -----------------------Starting build-----------------------
+2024-01-29 18:17:44,366 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 18:17:44,382 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 18:17:44,385 [INFO] Running config prebuild_0_hisab_backend
+2024-01-29 18:17:44,386 [INFO] ConfigSets completed
+2024-01-29 18:17:44,387 [INFO] -----------------------Build complete-----------------------
+2024-01-29 18:18:17,790 [INFO] -----------------------Starting build-----------------------
+2024-01-29 18:18:17,797 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 18:18:17,799 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 18:18:17,799 [INFO] ConfigSets completed
+2024-01-29 18:18:17,800 [INFO] -----------------------Build complete-----------------------
+2024-01-29 18:19:45,269 [INFO] -----------------------Starting build-----------------------
+2024-01-29 18:19:45,276 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 18:19:45,280 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 18:19:45,283 [INFO] Running config prebuild_0_hisab_backend
+2024-01-29 18:19:45,284 [INFO] ConfigSets completed
+2024-01-29 18:19:45,284 [INFO] -----------------------Build complete-----------------------
+2024-01-29 18:19:50,397 [INFO] -----------------------Starting build-----------------------
+2024-01-29 18:19:50,404 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 18:19:50,406 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 18:19:50,406 [INFO] ConfigSets completed
+2024-01-29 18:19:50,406 [INFO] -----------------------Build complete-----------------------
+2024-01-29 18:21:38,405 [INFO] -----------------------Starting build-----------------------
+2024-01-29 18:21:38,415 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 18:21:38,417 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 18:21:38,417 [INFO] ConfigSets completed
+2024-01-29 18:21:38,417 [INFO] -----------------------Build complete-----------------------
+2024-01-29 18:22:08,288 [INFO] -----------------------Starting build-----------------------
+2024-01-29 18:22:08,295 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 18:22:08,297 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 18:22:08,298 [INFO] ConfigSets completed
+2024-01-29 18:22:08,298 [INFO] -----------------------Build complete-----------------------

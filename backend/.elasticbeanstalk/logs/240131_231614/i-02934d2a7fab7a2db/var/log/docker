@@ -1,0 +1,11 @@
+Jan 29 19:23:55 ip-172-31-4-50 docker[1871]: time="2024-01-29T19:23:55.762124634Z" level=info msg="Starting up"
+Jan 29 19:23:55 ip-172-31-4-50 docker[1871]: time="2024-01-29T19:23:55.853322597Z" level=info msg="Loading containers: start."
+Jan 29 19:23:56 ip-172-31-4-50 docker[1871]: time="2024-01-29T19:23:56.624219190Z" level=info msg="Loading containers: done."
+Jan 29 19:23:56 ip-172-31-4-50 docker[1871]: time="2024-01-29T19:23:56.691487081Z" level=info msg="Docker daemon" commit=a61e2b4 graphdriver=overlay2 version=24.0.5
+Jan 29 19:23:56 ip-172-31-4-50 docker[1871]: time="2024-01-29T19:23:56.691625431Z" level=info msg="Daemon has completed initialization"
+Jan 29 19:23:56 ip-172-31-4-50 docker[1871]: time="2024-01-29T19:23:56.871531173Z" level=info msg="API listen on /run/docker.sock"
+Jan 29 19:24:41 ip-172-31-4-50 docker[1871]: time="2024-01-29T19:24:41.199562451Z" level=warning msg="no trace recorder found, skipping"
+Jan 29 19:24:46 ip-172-31-4-50 docker[1871]: time="2024-01-29T19:24:46.061560909Z" level=info msg="ignoring event" container=282913d74899dc25c5b7adcba271821fde75d3da185db3eb7d5d3d655afc6207 module=libcontainerd namespace=moby topic=/tasks/delete type="*events.TaskDelete"
+Jan 29 19:24:55 ip-172-31-4-50 docker[1871]: time="2024-01-29T19:24:55.574532705Z" level=info msg="Processing signal 'terminated'"
+Jan 29 19:24:55 ip-172-31-4-50 docker[1871]: time="2024-01-29T19:24:55.576884233Z" level=info msg="stopping event stream following graceful shutdown" error="<nil>" module=libcontainerd namespace=moby
+Jan 29 19:24:55 ip-172-31-4-50 docker[1871]: time="2024-01-29T19:24:55.577176913Z" level=info msg="Daemon shutdown complete"

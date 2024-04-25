@@ -1,0 +1,15 @@
+Jan 29 18:17:40 ip-172-31-16-173 docker[1831]: time="2024-01-29T18:17:40.955139014Z" level=info msg="Starting up"
+Jan 29 18:17:41 ip-172-31-16-173 docker[1831]: time="2024-01-29T18:17:41.132511064Z" level=info msg="Loading containers: start."
+Jan 29 18:17:41 ip-172-31-16-173 docker[1831]: time="2024-01-29T18:17:41.861215815Z" level=info msg="Loading containers: done."
+Jan 29 18:17:41 ip-172-31-16-173 docker[1831]: time="2024-01-29T18:17:41.958758034Z" level=info msg="Docker daemon" commit=a61e2b4 graphdriver=overlay2 version=24.0.5
+Jan 29 18:17:41 ip-172-31-16-173 docker[1831]: time="2024-01-29T18:17:41.958956842Z" level=info msg="Daemon has completed initialization"
+Jan 29 18:17:42 ip-172-31-16-173 docker[1831]: time="2024-01-29T18:17:42.110300243Z" level=info msg="API listen on /run/docker.sock"
+Jan 29 18:18:14 ip-172-31-16-173 docker[1831]: time="2024-01-29T18:18:14.630337540Z" level=warning msg="no trace recorder found, skipping"
+Jan 29 18:19:46 ip-172-31-16-173 docker[1831]: time="2024-01-29T18:19:46.668245651Z" level=warning msg="no trace recorder found, skipping"
+Jan 29 18:20:01 ip-172-31-16-173 docker[1831]: time="2024-01-29T18:20:01.461444457Z" level=info msg="Container failed to exit within 10s of signal 15 - using the force" container=eb858debfb6ad7fbba431ca7ad177a67c09ba67f597c5b07fa57d0bdc9de0e8e
+Jan 29 18:20:01 ip-172-31-16-173 docker[1831]: time="2024-01-29T18:20:01.543894916Z" level=info msg="ignoring event" container=eb858debfb6ad7fbba431ca7ad177a67c09ba67f597c5b07fa57d0bdc9de0e8e module=libcontainerd namespace=moby topic=/tasks/delete type="*events.TaskDelete"
+Jan 29 18:22:03 ip-172-31-16-173 docker[1831]: time="2024-01-29T18:22:03.781579194Z" level=warning msg="no trace recorder found, skipping"
+Jan 29 18:22:19 ip-172-31-16-173 docker[1831]: time="2024-01-29T18:22:19.439439052Z" level=info msg="Container failed to exit within 10s of signal 15 - using the force" container=f94f9426cbb689afec0f5842981764b7f05bd467bdfbef4a5890d40d450ae5fa
+Jan 29 18:22:19 ip-172-31-16-173 docker[1831]: time="2024-01-29T18:22:19.481024538Z" level=info msg="ignoring event" container=f94f9426cbb689afec0f5842981764b7f05bd467bdfbef4a5890d40d450ae5fa module=libcontainerd namespace=moby topic=/tasks/delete type="*events.TaskDelete"
+Jan 29 18:22:21 ip-172-31-16-173 docker[1831]: time="2024-01-29T18:22:21.912947537Z" level=error msg="stream copy error: reading from a closed fifo"
+Jan 29 18:22:21 ip-172-31-16-173 docker[1831]: time="2024-01-29T18:22:21.913556765Z" level=error msg="stream copy error: reading from a closed fifo"

@@ -1,0 +1,3 @@
+ALTER TABLE accounts
+    ADD COLUMN latest_balance DECIMAL(10, 3) DEFAULT NULL,
+    ADD COLUMN last_updated_balance TIMESTAMP NULL DEFAULT NULL;

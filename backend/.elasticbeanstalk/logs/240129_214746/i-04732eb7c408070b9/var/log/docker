@@ -1,0 +1,12 @@
+Jan 27 13:31:46 ip-172-31-11-179 docker[1872]: time="2024-01-27T13:31:46.341071048Z" level=info msg="Starting up"
+Jan 27 13:31:46 ip-172-31-11-179 docker[1872]: time="2024-01-27T13:31:46.469342167Z" level=info msg="Loading containers: start."
+Jan 27 13:31:47 ip-172-31-11-179 docker[1872]: time="2024-01-27T13:31:47.135504839Z" level=info msg="Loading containers: done."
+Jan 27 13:31:47 ip-172-31-11-179 docker[1872]: time="2024-01-27T13:31:47.185874787Z" level=info msg="Docker daemon" commit=a61e2b4 graphdriver=overlay2 version=24.0.5
+Jan 27 13:31:47 ip-172-31-11-179 docker[1872]: time="2024-01-27T13:31:47.186030774Z" level=info msg="Daemon has completed initialization"
+Jan 27 13:31:47 ip-172-31-11-179 docker[1872]: time="2024-01-27T13:31:47.396951869Z" level=info msg="API listen on /run/docker.sock"
+Jan 27 13:32:14 ip-172-31-11-179 docker[1872]: 2024/01/27 13:32:14 http2: server: error reading preface from client @: read unix /run/docker.sock->@: read: connection reset by peer
+Jan 27 13:32:37 ip-172-31-11-179 docker[1872]: time="2024-01-27T13:32:37.905844712Z" level=warning msg="no trace recorder found, skipping"
+Jan 29 17:20:56 ip-172-31-11-179 docker[1872]: time="2024-01-29T17:20:56.048197337Z" level=error msg="Not continuing with pull after error: errors:\ndenied: requested access to the resource is denied\nunauthorized: authentication required\n"
+Jan 29 17:20:56 ip-172-31-11-179 docker[1872]: time="2024-01-29T17:20:56.048234983Z" level=info msg="Ignoring extra error returned from registry" error="unauthorized: authentication required"
+Jan 29 17:20:56 ip-172-31-11-179 docker[1872]: time="2024-01-29T17:20:56.933636820Z" level=error msg="Not continuing with pull after error: errors:\ndenied: requested access to the resource is denied\nunauthorized: authentication required\n"
+Jan 29 17:20:56 ip-172-31-11-179 docker[1872]: time="2024-01-29T17:20:56.933678716Z" level=info msg="Ignoring extra error returned from registry" error="unauthorized: authentication required"

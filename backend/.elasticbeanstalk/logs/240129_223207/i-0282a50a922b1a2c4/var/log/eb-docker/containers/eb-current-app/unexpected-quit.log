@@ -1,0 +1,2 @@
+stdout: , stderr: 2024/01/29 18:29:39 Error retrieving secret from AWS Secrets Manager: AccessDeniedException: User: arn:aws:sts::471947097906:assumed-role/aws-elasticbeanstalk-ec2-role/i-0282a50a922b1a2c4 is not authorized to perform: secretsmanager:GetSecretValue on resource: backend/prod because no identity-based policy allows the secretsmanager:GetSecretValue action
+	status code: 400, request id: 125d2560-62f5-4c33-8833-c37dccafcc87

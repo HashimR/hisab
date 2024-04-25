@@ -1,0 +1,5 @@
+ALTER TABLE users
+    ADD COLUMN connected_state BOOLEAN DEFAULT false;
+
+ALTER TABLE users
+    CHANGE COLUMN username email VARCHAR(255) NOT NULL UNIQUE;

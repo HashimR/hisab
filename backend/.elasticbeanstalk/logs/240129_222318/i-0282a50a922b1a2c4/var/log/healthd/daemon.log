@@ -1,0 +1,69 @@
+# Logfile created on 2024-01-29 18:18:16 +0000 by logger.rb/v1.5.0
+A, [2024-01-29T18:18:16.946111 #2265]   ANY -- : healthd daemon 1.0.6 initialized
+W, [2024-01-29T18:18:17.045527 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:18:22.045836 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:18:27.046109 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:18:32.052012 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:18:37.053552 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:18:42.058789 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:18:47.064064 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:18:52.069269 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:18:57.074500 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:19:02.079733 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:19:07.084916 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:19:12.090138 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:19:17.095333 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:19:22.100540 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:19:27.105739 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:19:32.109712 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:19:37.114990 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:19:42.119692 #2265]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+F, [2024-01-29T18:19:46.779094 #2265] FATAL -- : /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/3.1.0/gems/puma-6.4.0/lib/puma/launcher.rb:434:in `block in setup_signals': SIGTERM (SignalException)
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/3.1.0/gems/puma-6.4.0/lib/puma/single.rb:63:in `join'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/3.1.0/gems/puma-6.4.0/lib/puma/single.rb:63:in `run'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/3.1.0/gems/puma-6.4.0/lib/puma/launcher.rb:194:in `run'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/3.1.0/gems/puma-6.4.0/lib/puma/cli.rb:75:in `run'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/3.1.0/gems/healthd-1.0.6/bin/healthd:112:in `block in <top (required)>'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/3.1.0/gems/healthd-1.0.6/bin/healthd:19:in `chdir'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/3.1.0/gems/healthd-1.0.6/bin/healthd:19:in `<top (required)>'
+	from /opt/elasticbeanstalk/lib/ruby/bin/healthd:25:in `load'
+	from /opt/elasticbeanstalk/lib/ruby/bin/healthd:25:in `<main>'
+A, [2024-01-29T18:19:49.614950 #3060]   ANY -- : healthd daemon 1.0.6 initialized
+W, [2024-01-29T18:19:49.675336 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:19:54.675608 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:19:59.675885 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:20:04.680096 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:20:09.685334 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:20:14.689756 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:20:19.694963 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:20:24.700180 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:20:29.705367 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:20:34.710791 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:20:39.716147 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:20:44.719696 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:20:49.725029 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:20:54.730242 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:20:59.735503 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:21:04.740731 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:21:09.745944 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:21:14.749709 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:21:19.754957 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:21:24.759902 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:21:29.765211 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:21:34.769679 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:21:39.774859 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:21:44.782339 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:21:49.795883 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:21:54.799999 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+W, [2024-01-29T18:21:59.805247 #3060]  WARN -- : log file "/var/log/nginx/healthd/application.log.2024-01-29-18" does not exist
+F, [2024-01-29T18:22:03.956596 #3060] FATAL -- : /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/3.1.0/gems/puma-6.4.0/lib/puma/launcher.rb:434:in `block in setup_signals': SIGTERM (SignalException)
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/3.1.0/gems/puma-6.4.0/lib/puma/single.rb:63:in `join'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/3.1.0/gems/puma-6.4.0/lib/puma/single.rb:63:in `run'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/3.1.0/gems/puma-6.4.0/lib/puma/launcher.rb:194:in `run'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/3.1.0/gems/puma-6.4.0/lib/puma/cli.rb:75:in `run'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/3.1.0/gems/healthd-1.0.6/bin/healthd:112:in `block in <top (required)>'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/3.1.0/gems/healthd-1.0.6/bin/healthd:19:in `chdir'
+	from /opt/elasticbeanstalk/lib/ruby/lib/ruby/gems/3.1.0/gems/healthd-1.0.6/bin/healthd:19:in `<top (required)>'
+	from /opt/elasticbeanstalk/lib/ruby/bin/healthd:25:in `load'
+	from /opt/elasticbeanstalk/lib/ruby/bin/healthd:25:in `<main>'
+A, [2024-01-29T18:22:06.991219 #4175]   ANY -- : healthd daemon 1.0.6 initialized

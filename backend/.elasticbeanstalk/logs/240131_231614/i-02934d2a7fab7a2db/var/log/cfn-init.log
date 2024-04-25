@@ -1,0 +1,988 @@
+2024-01-29 19:23:43,358 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:23:43,374 [INFO] Running configSets: _OnInstanceBoot
+2024-01-29 19:23:43,377 [INFO] Running configSet _OnInstanceBoot
+2024-01-29 19:23:43,380 [INFO] Running config AWSEBBaseConfig
+2024-01-29 19:23:44,139 [INFO] Command clearbackupfiles succeeded
+2024-01-29 19:23:44,155 [INFO] Running config AWSEBCfnHupEndpointOverride
+2024-01-29 19:23:44,163 [INFO] Command clearbackupfiles succeeded
+2024-01-29 19:23:44,165 [INFO] ConfigSets completed
+2024-01-29 19:23:44,166 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:23:59,508 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:23:59,534 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 19:23:59,538 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 19:23:59,539 [INFO] ConfigSets completed
+2024-01-29 19:23:59,539 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:24:44,650 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:24:44,657 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 19:24:44,658 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 19:24:44,659 [INFO] ConfigSets completed
+2024-01-29 19:24:44,659 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:24:53,415 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:24:53,420 [INFO] Running configSets: _OnInstanceReboot
+2024-01-29 19:24:53,422 [INFO] Running configSet _OnInstanceReboot
+2024-01-29 19:24:53,424 [INFO] Running config AWSEBBaseConfig
+2024-01-29 19:24:53,782 [INFO] Command clearbackupfiles succeeded
+2024-01-29 19:24:53,783 [INFO] ConfigSets completed
+2024-01-29 19:24:53,783 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:24:58,354 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:24:58,358 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 19:24:58,360 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 19:24:58,360 [INFO] ConfigSets completed
+2024-01-29 19:24:58,360 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:25:05,893 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:25:05,902 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 19:25:05,906 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 19:25:05,915 [INFO] ConfigSets completed
+2024-01-29 19:25:05,915 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:25:16,569 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:25:16,584 [INFO] Running configSets: _OnInstanceReboot
+2024-01-29 19:25:16,587 [INFO] Running configSet _OnInstanceReboot
+2024-01-29 19:25:16,596 [INFO] Running config AWSEBBaseConfig
+2024-01-29 19:25:17,006 [INFO] Command clearbackupfiles succeeded
+2024-01-29 19:25:17,007 [INFO] ConfigSets completed
+2024-01-29 19:25:17,007 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:25:21,217 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:25:21,223 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 19:25:21,226 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 19:25:21,226 [INFO] ConfigSets completed
+2024-01-29 19:25:21,226 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:25:26,870 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:25:26,874 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 19:25:26,876 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 19:25:26,877 [INFO] ConfigSets completed
+2024-01-29 19:25:26,877 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:25:41,347 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:25:41,355 [INFO] Running configSets: _OnInstanceReboot
+2024-01-29 19:25:41,356 [INFO] Running configSet _OnInstanceReboot
+2024-01-29 19:25:41,359 [INFO] Running config AWSEBBaseConfig
+2024-01-29 19:25:41,712 [INFO] Command clearbackupfiles succeeded
+2024-01-29 19:25:41,713 [INFO] ConfigSets completed
+2024-01-29 19:25:41,713 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:25:46,344 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:25:46,349 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 19:25:46,351 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 19:25:46,351 [INFO] ConfigSets completed
+2024-01-29 19:25:46,351 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:25:51,283 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:25:51,287 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 19:25:51,289 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 19:25:51,290 [INFO] ConfigSets completed
+2024-01-29 19:25:51,290 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:26:13,674 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:26:13,678 [INFO] Running configSets: _OnInstanceReboot
+2024-01-29 19:26:13,681 [INFO] Running configSet _OnInstanceReboot
+2024-01-29 19:26:13,683 [INFO] Running config AWSEBBaseConfig
+2024-01-29 19:26:14,023 [INFO] Command clearbackupfiles succeeded
+2024-01-29 19:26:14,024 [INFO] ConfigSets completed
+2024-01-29 19:26:14,024 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:26:18,868 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:26:18,873 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 19:26:18,876 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 19:26:18,876 [INFO] ConfigSets completed
+2024-01-29 19:26:18,876 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:26:24,576 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:26:24,586 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 19:26:24,590 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 19:26:24,591 [INFO] ConfigSets completed
+2024-01-29 19:26:24,591 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:27:03,235 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:27:03,259 [INFO] Running configSets: _OnInstanceReboot
+2024-01-29 19:27:03,262 [INFO] Running configSet _OnInstanceReboot
+2024-01-29 19:27:03,265 [INFO] Running config AWSEBBaseConfig
+2024-01-29 19:27:03,729 [INFO] Command clearbackupfiles succeeded
+2024-01-29 19:27:03,731 [INFO] ConfigSets completed
+2024-01-29 19:27:03,731 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:27:08,616 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:27:08,621 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 19:27:08,624 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 19:27:08,624 [INFO] ConfigSets completed
+2024-01-29 19:27:08,624 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:27:14,121 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:27:14,126 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 19:27:14,128 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 19:27:14,128 [INFO] ConfigSets completed
+2024-01-29 19:27:14,128 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:28:24,572 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:28:24,577 [INFO] Running configSets: _OnInstanceReboot
+2024-01-29 19:28:24,580 [INFO] Running configSet _OnInstanceReboot
+2024-01-29 19:28:24,583 [INFO] Running config AWSEBBaseConfig
+2024-01-29 19:28:24,945 [INFO] Command clearbackupfiles succeeded
+2024-01-29 19:28:24,946 [INFO] ConfigSets completed
+2024-01-29 19:28:24,947 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:28:29,323 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:28:29,327 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 19:28:29,329 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 19:28:29,329 [INFO] ConfigSets completed
+2024-01-29 19:28:29,330 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:28:34,724 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:28:34,729 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 19:28:34,733 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 19:28:34,733 [INFO] ConfigSets completed
+2024-01-29 19:28:34,733 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:30:49,311 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:30:49,327 [INFO] Running configSets: _OnInstanceReboot
+2024-01-29 19:30:49,332 [INFO] Running configSet _OnInstanceReboot
+2024-01-29 19:30:49,338 [INFO] Running config AWSEBBaseConfig
+2024-01-29 19:30:49,758 [INFO] Command clearbackupfiles succeeded
+2024-01-29 19:30:49,759 [INFO] ConfigSets completed
+2024-01-29 19:30:49,759 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:30:54,086 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:30:54,092 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 19:30:54,094 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 19:30:54,094 [INFO] ConfigSets completed
+2024-01-29 19:30:54,095 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:30:59,548 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:30:59,553 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 19:30:59,555 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 19:30:59,555 [INFO] ConfigSets completed
+2024-01-29 19:30:59,555 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:35:22,099 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:35:22,105 [INFO] Running configSets: _OnInstanceReboot
+2024-01-29 19:35:22,108 [INFO] Running configSet _OnInstanceReboot
+2024-01-29 19:35:22,110 [INFO] Running config AWSEBBaseConfig
+2024-01-29 19:35:22,604 [INFO] Command clearbackupfiles succeeded
+2024-01-29 19:35:22,606 [INFO] ConfigSets completed
+2024-01-29 19:35:22,606 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:35:27,501 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:35:27,518 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 19:35:27,523 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 19:35:27,523 [INFO] ConfigSets completed
+2024-01-29 19:35:27,524 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:35:33,645 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:35:33,650 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 19:35:33,653 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 19:35:33,653 [INFO] ConfigSets completed
+2024-01-29 19:35:33,653 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:44:12,042 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:44:12,052 [INFO] Running configSets: _OnInstanceReboot
+2024-01-29 19:44:12,055 [INFO] Running configSet _OnInstanceReboot
+2024-01-29 19:44:12,057 [INFO] Running config AWSEBBaseConfig
+2024-01-29 19:44:12,464 [INFO] Command clearbackupfiles succeeded
+2024-01-29 19:44:12,465 [INFO] ConfigSets completed
+2024-01-29 19:44:12,466 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:44:17,007 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:44:17,013 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 19:44:17,015 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 19:44:17,015 [INFO] ConfigSets completed
+2024-01-29 19:44:17,015 [INFO] -----------------------Build complete-----------------------
+2024-01-29 19:44:22,378 [INFO] -----------------------Starting build-----------------------
+2024-01-29 19:44:22,383 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 19:44:22,386 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 19:44:22,386 [INFO] ConfigSets completed
+2024-01-29 19:44:22,386 [INFO] -----------------------Build complete-----------------------
+2024-01-29 20:01:32,802 [INFO] -----------------------Starting build-----------------------
+2024-01-29 20:01:32,807 [INFO] Running configSets: _OnInstanceReboot
+2024-01-29 20:01:32,809 [INFO] Running configSet _OnInstanceReboot
+2024-01-29 20:01:32,811 [INFO] Running config AWSEBBaseConfig
+2024-01-29 20:01:33,257 [INFO] Command clearbackupfiles succeeded
+2024-01-29 20:01:33,258 [INFO] ConfigSets completed
+2024-01-29 20:01:33,258 [INFO] -----------------------Build complete-----------------------
+2024-01-29 20:01:37,941 [INFO] -----------------------Starting build-----------------------
+2024-01-29 20:01:37,947 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 20:01:37,949 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 20:01:37,950 [INFO] ConfigSets completed
+2024-01-29 20:01:37,950 [INFO] -----------------------Build complete-----------------------
+2024-01-29 20:01:43,790 [INFO] -----------------------Starting build-----------------------
+2024-01-29 20:01:43,796 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 20:01:43,798 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 20:01:43,798 [INFO] ConfigSets completed
+2024-01-29 20:01:43,798 [INFO] -----------------------Build complete-----------------------
+2024-01-29 20:35:58,112 [INFO] -----------------------Starting build-----------------------
+2024-01-29 20:35:58,117 [INFO] Running configSets: _OnInstanceReboot
+2024-01-29 20:35:58,119 [INFO] Running configSet _OnInstanceReboot
+2024-01-29 20:35:58,121 [INFO] Running config AWSEBBaseConfig
+2024-01-29 20:35:58,485 [INFO] Command clearbackupfiles succeeded
+2024-01-29 20:35:58,486 [INFO] ConfigSets completed
+2024-01-29 20:35:58,486 [INFO] -----------------------Build complete-----------------------
+2024-01-29 20:36:03,515 [INFO] -----------------------Starting build-----------------------
+2024-01-29 20:36:03,522 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 20:36:03,524 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 20:36:03,525 [INFO] ConfigSets completed
+2024-01-29 20:36:03,525 [INFO] -----------------------Build complete-----------------------
+2024-01-29 20:36:09,008 [INFO] -----------------------Starting build-----------------------
+2024-01-29 20:36:09,013 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 20:36:09,015 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 20:36:09,015 [INFO] ConfigSets completed
+2024-01-29 20:36:09,015 [INFO] -----------------------Build complete-----------------------
+2024-01-29 21:36:15,287 [INFO] -----------------------Starting build-----------------------
+2024-01-29 21:36:15,304 [INFO] Running configSets: _OnInstanceReboot
+2024-01-29 21:36:15,311 [INFO] Running configSet _OnInstanceReboot
+2024-01-29 21:36:15,316 [INFO] Running config AWSEBBaseConfig
+2024-01-29 21:36:15,767 [INFO] Command clearbackupfiles succeeded
+2024-01-29 21:36:15,769 [INFO] ConfigSets completed
+2024-01-29 21:36:15,769 [INFO] -----------------------Build complete-----------------------
+2024-01-29 21:36:20,100 [INFO] -----------------------Starting build-----------------------
+2024-01-29 21:36:20,107 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 21:36:20,110 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 21:36:20,110 [INFO] ConfigSets completed
+2024-01-29 21:36:20,110 [INFO] -----------------------Build complete-----------------------
+2024-01-29 21:36:25,336 [INFO] -----------------------Starting build-----------------------
+2024-01-29 21:36:25,341 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 21:36:25,344 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 21:36:25,344 [INFO] ConfigSets completed
+2024-01-29 21:36:25,344 [INFO] -----------------------Build complete-----------------------
+2024-01-29 22:36:31,605 [INFO] -----------------------Starting build-----------------------
+2024-01-29 22:36:31,610 [INFO] Running configSets: _OnInstanceReboot
+2024-01-29 22:36:31,614 [INFO] Running configSet _OnInstanceReboot
+2024-01-29 22:36:31,618 [INFO] Running config AWSEBBaseConfig
+2024-01-29 22:36:31,973 [INFO] Command clearbackupfiles succeeded
+2024-01-29 22:36:31,974 [INFO] ConfigSets completed
+2024-01-29 22:36:31,974 [INFO] -----------------------Build complete-----------------------
+2024-01-29 22:36:36,640 [INFO] -----------------------Starting build-----------------------
+2024-01-29 22:36:36,646 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 22:36:36,648 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 22:36:36,648 [INFO] ConfigSets completed
+2024-01-29 22:36:36,648 [INFO] -----------------------Build complete-----------------------
+2024-01-29 22:36:42,260 [INFO] -----------------------Starting build-----------------------
+2024-01-29 22:36:42,265 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 22:36:42,267 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 22:36:42,267 [INFO] ConfigSets completed
+2024-01-29 22:36:42,267 [INFO] -----------------------Build complete-----------------------
+2024-01-29 23:36:48,735 [INFO] -----------------------Starting build-----------------------
+2024-01-29 23:36:48,740 [INFO] Running configSets: _OnInstanceReboot
+2024-01-29 23:36:48,743 [INFO] Running configSet _OnInstanceReboot
+2024-01-29 23:36:48,745 [INFO] Running config AWSEBBaseConfig
+2024-01-29 23:36:49,122 [INFO] Command clearbackupfiles succeeded
+2024-01-29 23:36:49,124 [INFO] ConfigSets completed
+2024-01-29 23:36:49,124 [INFO] -----------------------Build complete-----------------------
+2024-01-29 23:36:53,714 [INFO] -----------------------Starting build-----------------------
+2024-01-29 23:36:53,729 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-29 23:36:53,730 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-29 23:36:53,731 [INFO] ConfigSets completed
+2024-01-29 23:36:53,731 [INFO] -----------------------Build complete-----------------------
+2024-01-29 23:36:59,692 [INFO] -----------------------Starting build-----------------------
+2024-01-29 23:36:59,698 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-29 23:36:59,700 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-29 23:36:59,700 [INFO] ConfigSets completed
+2024-01-29 23:36:59,700 [INFO] -----------------------Build complete-----------------------
+2024-01-30 00:37:06,332 [INFO] -----------------------Starting build-----------------------
+2024-01-30 00:37:06,338 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 00:37:06,340 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 00:37:06,344 [INFO] Running config AWSEBBaseConfig
+2024-01-30 00:37:06,744 [INFO] Command clearbackupfiles succeeded
+2024-01-30 00:37:06,745 [INFO] ConfigSets completed
+2024-01-30 00:37:06,745 [INFO] -----------------------Build complete-----------------------
+2024-01-30 00:37:10,895 [INFO] -----------------------Starting build-----------------------
+2024-01-30 00:37:10,904 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 00:37:10,907 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 00:37:10,907 [INFO] ConfigSets completed
+2024-01-30 00:37:10,907 [INFO] -----------------------Build complete-----------------------
+2024-01-30 00:37:16,341 [INFO] -----------------------Starting build-----------------------
+2024-01-30 00:37:16,347 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 00:37:16,349 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 00:37:16,350 [INFO] ConfigSets completed
+2024-01-30 00:37:16,350 [INFO] -----------------------Build complete-----------------------
+2024-01-30 01:37:22,713 [INFO] -----------------------Starting build-----------------------
+2024-01-30 01:37:22,721 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 01:37:22,723 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 01:37:22,726 [INFO] Running config AWSEBBaseConfig
+2024-01-30 01:37:23,128 [INFO] Command clearbackupfiles succeeded
+2024-01-30 01:37:23,129 [INFO] ConfigSets completed
+2024-01-30 01:37:23,129 [INFO] -----------------------Build complete-----------------------
+2024-01-30 01:37:27,758 [INFO] -----------------------Starting build-----------------------
+2024-01-30 01:37:27,763 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 01:37:27,766 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 01:37:27,766 [INFO] ConfigSets completed
+2024-01-30 01:37:27,766 [INFO] -----------------------Build complete-----------------------
+2024-01-30 01:37:33,078 [INFO] -----------------------Starting build-----------------------
+2024-01-30 01:37:33,083 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 01:37:33,086 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 01:37:33,086 [INFO] ConfigSets completed
+2024-01-30 01:37:33,086 [INFO] -----------------------Build complete-----------------------
+2024-01-30 02:37:39,505 [INFO] -----------------------Starting build-----------------------
+2024-01-30 02:37:39,512 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 02:37:39,514 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 02:37:39,516 [INFO] Running config AWSEBBaseConfig
+2024-01-30 02:37:39,862 [INFO] Command clearbackupfiles succeeded
+2024-01-30 02:37:39,863 [INFO] ConfigSets completed
+2024-01-30 02:37:39,863 [INFO] -----------------------Build complete-----------------------
+2024-01-30 02:37:44,095 [INFO] -----------------------Starting build-----------------------
+2024-01-30 02:37:44,101 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 02:37:44,105 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 02:37:44,106 [INFO] ConfigSets completed
+2024-01-30 02:37:44,106 [INFO] -----------------------Build complete-----------------------
+2024-01-30 02:37:49,801 [INFO] -----------------------Starting build-----------------------
+2024-01-30 02:37:49,811 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 02:37:49,814 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 02:37:49,815 [INFO] ConfigSets completed
+2024-01-30 02:37:49,815 [INFO] -----------------------Build complete-----------------------
+2024-01-30 03:37:56,226 [INFO] -----------------------Starting build-----------------------
+2024-01-30 03:37:56,231 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 03:37:56,233 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 03:37:56,236 [INFO] Running config AWSEBBaseConfig
+2024-01-30 03:37:56,625 [INFO] Command clearbackupfiles succeeded
+2024-01-30 03:37:56,626 [INFO] ConfigSets completed
+2024-01-30 03:37:56,627 [INFO] -----------------------Build complete-----------------------
+2024-01-30 03:38:01,100 [INFO] -----------------------Starting build-----------------------
+2024-01-30 03:38:01,108 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 03:38:01,110 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 03:38:01,111 [INFO] ConfigSets completed
+2024-01-30 03:38:01,111 [INFO] -----------------------Build complete-----------------------
+2024-01-30 03:38:07,532 [INFO] -----------------------Starting build-----------------------
+2024-01-30 03:38:07,539 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 03:38:07,544 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 03:38:07,545 [INFO] ConfigSets completed
+2024-01-30 03:38:07,545 [INFO] -----------------------Build complete-----------------------
+2024-01-30 04:38:14,103 [INFO] -----------------------Starting build-----------------------
+2024-01-30 04:38:14,115 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 04:38:14,120 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 04:38:14,124 [INFO] Running config AWSEBBaseConfig
+2024-01-30 04:38:14,545 [INFO] Command clearbackupfiles succeeded
+2024-01-30 04:38:14,547 [INFO] ConfigSets completed
+2024-01-30 04:38:14,547 [INFO] -----------------------Build complete-----------------------
+2024-01-30 04:38:18,995 [INFO] -----------------------Starting build-----------------------
+2024-01-30 04:38:19,005 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 04:38:19,008 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 04:38:19,008 [INFO] ConfigSets completed
+2024-01-30 04:38:19,008 [INFO] -----------------------Build complete-----------------------
+2024-01-30 04:38:24,879 [INFO] -----------------------Starting build-----------------------
+2024-01-30 04:38:24,884 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 04:38:24,886 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 04:38:24,887 [INFO] ConfigSets completed
+2024-01-30 04:38:24,887 [INFO] -----------------------Build complete-----------------------
+2024-01-30 05:38:31,322 [INFO] -----------------------Starting build-----------------------
+2024-01-30 05:38:31,327 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 05:38:31,329 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 05:38:31,331 [INFO] Running config AWSEBBaseConfig
+2024-01-30 05:38:31,712 [INFO] Command clearbackupfiles succeeded
+2024-01-30 05:38:31,713 [INFO] ConfigSets completed
+2024-01-30 05:38:31,713 [INFO] -----------------------Build complete-----------------------
+2024-01-30 05:38:35,843 [INFO] -----------------------Starting build-----------------------
+2024-01-30 05:38:35,857 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 05:38:35,863 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 05:38:35,863 [INFO] ConfigSets completed
+2024-01-30 05:38:35,863 [INFO] -----------------------Build complete-----------------------
+2024-01-30 05:38:40,822 [INFO] -----------------------Starting build-----------------------
+2024-01-30 05:38:40,828 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 05:38:40,830 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 05:38:40,830 [INFO] ConfigSets completed
+2024-01-30 05:38:40,830 [INFO] -----------------------Build complete-----------------------
+2024-01-30 06:38:47,279 [INFO] -----------------------Starting build-----------------------
+2024-01-30 06:38:47,284 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 06:38:47,286 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 06:38:47,288 [INFO] Running config AWSEBBaseConfig
+2024-01-30 06:38:47,671 [INFO] Command clearbackupfiles succeeded
+2024-01-30 06:38:47,679 [INFO] ConfigSets completed
+2024-01-30 06:38:47,680 [INFO] -----------------------Build complete-----------------------
+2024-01-30 06:38:52,201 [INFO] -----------------------Starting build-----------------------
+2024-01-30 06:38:52,206 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 06:38:52,208 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 06:38:52,208 [INFO] ConfigSets completed
+2024-01-30 06:38:52,208 [INFO] -----------------------Build complete-----------------------
+2024-01-30 06:38:57,203 [INFO] -----------------------Starting build-----------------------
+2024-01-30 06:38:57,209 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 06:38:57,212 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 06:38:57,212 [INFO] ConfigSets completed
+2024-01-30 06:38:57,212 [INFO] -----------------------Build complete-----------------------
+2024-01-30 07:39:03,700 [INFO] -----------------------Starting build-----------------------
+2024-01-30 07:39:03,705 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 07:39:03,709 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 07:39:03,712 [INFO] Running config AWSEBBaseConfig
+2024-01-30 07:39:04,068 [INFO] Command clearbackupfiles succeeded
+2024-01-30 07:39:04,069 [INFO] ConfigSets completed
+2024-01-30 07:39:04,070 [INFO] -----------------------Build complete-----------------------
+2024-01-30 07:39:08,701 [INFO] -----------------------Starting build-----------------------
+2024-01-30 07:39:08,706 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 07:39:08,709 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 07:39:08,710 [INFO] ConfigSets completed
+2024-01-30 07:39:08,710 [INFO] -----------------------Build complete-----------------------
+2024-01-30 07:39:14,420 [INFO] -----------------------Starting build-----------------------
+2024-01-30 07:39:14,426 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 07:39:14,428 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 07:39:14,428 [INFO] ConfigSets completed
+2024-01-30 07:39:14,428 [INFO] -----------------------Build complete-----------------------
+2024-01-30 08:39:20,846 [INFO] -----------------------Starting build-----------------------
+2024-01-30 08:39:20,852 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 08:39:20,855 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 08:39:20,857 [INFO] Running config AWSEBBaseConfig
+2024-01-30 08:39:21,206 [INFO] Command clearbackupfiles succeeded
+2024-01-30 08:39:21,207 [INFO] ConfigSets completed
+2024-01-30 08:39:21,208 [INFO] -----------------------Build complete-----------------------
+2024-01-30 08:39:25,438 [INFO] -----------------------Starting build-----------------------
+2024-01-30 08:39:25,444 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 08:39:25,446 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 08:39:25,446 [INFO] ConfigSets completed
+2024-01-30 08:39:25,446 [INFO] -----------------------Build complete-----------------------
+2024-01-30 08:39:31,153 [INFO] -----------------------Starting build-----------------------
+2024-01-30 08:39:31,170 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 08:39:31,172 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 08:39:31,173 [INFO] ConfigSets completed
+2024-01-30 08:39:31,173 [INFO] -----------------------Build complete-----------------------
+2024-01-30 09:39:37,496 [INFO] -----------------------Starting build-----------------------
+2024-01-30 09:39:37,501 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 09:39:37,503 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 09:39:37,505 [INFO] Running config AWSEBBaseConfig
+2024-01-30 09:39:37,868 [INFO] Command clearbackupfiles succeeded
+2024-01-30 09:39:37,870 [INFO] ConfigSets completed
+2024-01-30 09:39:37,870 [INFO] -----------------------Build complete-----------------------
+2024-01-30 09:39:42,468 [INFO] -----------------------Starting build-----------------------
+2024-01-30 09:39:42,474 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 09:39:42,476 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 09:39:42,476 [INFO] ConfigSets completed
+2024-01-30 09:39:42,476 [INFO] -----------------------Build complete-----------------------
+2024-01-30 09:39:47,872 [INFO] -----------------------Starting build-----------------------
+2024-01-30 09:39:47,878 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 09:39:47,880 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 09:39:47,881 [INFO] ConfigSets completed
+2024-01-30 09:39:47,881 [INFO] -----------------------Build complete-----------------------
+2024-01-30 10:39:54,182 [INFO] -----------------------Starting build-----------------------
+2024-01-30 10:39:54,188 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 10:39:54,190 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 10:39:54,193 [INFO] Running config AWSEBBaseConfig
+2024-01-30 10:39:54,618 [INFO] Command clearbackupfiles succeeded
+2024-01-30 10:39:54,619 [INFO] ConfigSets completed
+2024-01-30 10:39:54,619 [INFO] -----------------------Build complete-----------------------
+2024-01-30 10:39:58,838 [INFO] -----------------------Starting build-----------------------
+2024-01-30 10:39:58,845 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 10:39:58,849 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 10:39:58,849 [INFO] ConfigSets completed
+2024-01-30 10:39:58,849 [INFO] -----------------------Build complete-----------------------
+2024-01-30 10:40:05,849 [INFO] -----------------------Starting build-----------------------
+2024-01-30 10:40:05,855 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 10:40:05,857 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 10:40:05,857 [INFO] ConfigSets completed
+2024-01-30 10:40:05,858 [INFO] -----------------------Build complete-----------------------
+2024-01-30 11:40:12,274 [INFO] -----------------------Starting build-----------------------
+2024-01-30 11:40:12,280 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 11:40:12,282 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 11:40:12,284 [INFO] Running config AWSEBBaseConfig
+2024-01-30 11:40:12,602 [INFO] Command clearbackupfiles succeeded
+2024-01-30 11:40:12,603 [INFO] ConfigSets completed
+2024-01-30 11:40:12,603 [INFO] -----------------------Build complete-----------------------
+2024-01-30 11:40:17,102 [INFO] -----------------------Starting build-----------------------
+2024-01-30 11:40:17,107 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 11:40:17,110 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 11:40:17,110 [INFO] ConfigSets completed
+2024-01-30 11:40:17,110 [INFO] -----------------------Build complete-----------------------
+2024-01-30 11:40:22,788 [INFO] -----------------------Starting build-----------------------
+2024-01-30 11:40:22,793 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 11:40:22,795 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 11:40:22,795 [INFO] ConfigSets completed
+2024-01-30 11:40:22,795 [INFO] -----------------------Build complete-----------------------
+2024-01-30 12:40:29,172 [INFO] -----------------------Starting build-----------------------
+2024-01-30 12:40:29,182 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 12:40:29,184 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 12:40:29,187 [INFO] Running config AWSEBBaseConfig
+2024-01-30 12:40:29,575 [INFO] Command clearbackupfiles succeeded
+2024-01-30 12:40:29,577 [INFO] ConfigSets completed
+2024-01-30 12:40:29,577 [INFO] -----------------------Build complete-----------------------
+2024-01-30 12:40:33,551 [INFO] -----------------------Starting build-----------------------
+2024-01-30 12:40:33,556 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 12:40:33,558 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 12:40:33,559 [INFO] ConfigSets completed
+2024-01-30 12:40:33,559 [INFO] -----------------------Build complete-----------------------
+2024-01-30 12:40:39,061 [INFO] -----------------------Starting build-----------------------
+2024-01-30 12:40:39,066 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 12:40:39,067 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 12:40:39,068 [INFO] ConfigSets completed
+2024-01-30 12:40:39,068 [INFO] -----------------------Build complete-----------------------
+2024-01-30 13:40:45,497 [INFO] -----------------------Starting build-----------------------
+2024-01-30 13:40:45,511 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 13:40:45,514 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 13:40:45,519 [INFO] Running config AWSEBBaseConfig
+2024-01-30 13:40:45,901 [INFO] Command clearbackupfiles succeeded
+2024-01-30 13:40:45,902 [INFO] ConfigSets completed
+2024-01-30 13:40:45,902 [INFO] -----------------------Build complete-----------------------
+2024-01-30 13:40:50,311 [INFO] -----------------------Starting build-----------------------
+2024-01-30 13:40:50,316 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 13:40:50,319 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 13:40:50,319 [INFO] ConfigSets completed
+2024-01-30 13:40:50,319 [INFO] -----------------------Build complete-----------------------
+2024-01-30 13:40:55,724 [INFO] -----------------------Starting build-----------------------
+2024-01-30 13:40:55,729 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 13:40:55,731 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 13:40:55,731 [INFO] ConfigSets completed
+2024-01-30 13:40:55,731 [INFO] -----------------------Build complete-----------------------
+2024-01-30 14:41:02,394 [INFO] -----------------------Starting build-----------------------
+2024-01-30 14:41:02,411 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 14:41:02,419 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 14:41:02,424 [INFO] Running config AWSEBBaseConfig
+2024-01-30 14:41:02,943 [INFO] Command clearbackupfiles succeeded
+2024-01-30 14:41:02,944 [INFO] ConfigSets completed
+2024-01-30 14:41:02,945 [INFO] -----------------------Build complete-----------------------
+2024-01-30 14:41:07,467 [INFO] -----------------------Starting build-----------------------
+2024-01-30 14:41:07,478 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 14:41:07,480 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 14:41:07,480 [INFO] ConfigSets completed
+2024-01-30 14:41:07,480 [INFO] -----------------------Build complete-----------------------
+2024-01-30 14:41:13,065 [INFO] -----------------------Starting build-----------------------
+2024-01-30 14:41:13,074 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 14:41:13,076 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 14:41:13,076 [INFO] ConfigSets completed
+2024-01-30 14:41:13,077 [INFO] -----------------------Build complete-----------------------
+2024-01-30 15:41:19,345 [INFO] -----------------------Starting build-----------------------
+2024-01-30 15:41:19,350 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 15:41:19,352 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 15:41:19,355 [INFO] Running config AWSEBBaseConfig
+2024-01-30 15:41:19,756 [INFO] Command clearbackupfiles succeeded
+2024-01-30 15:41:19,758 [INFO] ConfigSets completed
+2024-01-30 15:41:19,758 [INFO] -----------------------Build complete-----------------------
+2024-01-30 15:41:24,074 [INFO] -----------------------Starting build-----------------------
+2024-01-30 15:41:24,079 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 15:41:24,081 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 15:41:24,081 [INFO] ConfigSets completed
+2024-01-30 15:41:24,081 [INFO] -----------------------Build complete-----------------------
+2024-01-30 15:41:29,584 [INFO] -----------------------Starting build-----------------------
+2024-01-30 15:41:29,591 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 15:41:29,593 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 15:41:29,594 [INFO] ConfigSets completed
+2024-01-30 15:41:29,594 [INFO] -----------------------Build complete-----------------------
+2024-01-30 16:41:36,033 [INFO] -----------------------Starting build-----------------------
+2024-01-30 16:41:36,042 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 16:41:36,045 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 16:41:36,046 [INFO] Running config AWSEBBaseConfig
+2024-01-30 16:41:36,500 [INFO] Command clearbackupfiles succeeded
+2024-01-30 16:41:36,501 [INFO] ConfigSets completed
+2024-01-30 16:41:36,502 [INFO] -----------------------Build complete-----------------------
+2024-01-30 16:41:41,098 [INFO] -----------------------Starting build-----------------------
+2024-01-30 16:41:41,105 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 16:41:41,108 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 16:41:41,109 [INFO] ConfigSets completed
+2024-01-30 16:41:41,109 [INFO] -----------------------Build complete-----------------------
+2024-01-30 16:41:47,095 [INFO] -----------------------Starting build-----------------------
+2024-01-30 16:41:47,102 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 16:41:47,105 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 16:41:47,106 [INFO] ConfigSets completed
+2024-01-30 16:41:47,106 [INFO] -----------------------Build complete-----------------------
+2024-01-30 17:41:53,535 [INFO] -----------------------Starting build-----------------------
+2024-01-30 17:41:53,540 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 17:41:53,542 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 17:41:53,545 [INFO] Running config AWSEBBaseConfig
+2024-01-30 17:41:53,930 [INFO] Command clearbackupfiles succeeded
+2024-01-30 17:41:53,931 [INFO] ConfigSets completed
+2024-01-30 17:41:53,932 [INFO] -----------------------Build complete-----------------------
+2024-01-30 17:41:58,462 [INFO] -----------------------Starting build-----------------------
+2024-01-30 17:41:58,470 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 17:41:58,475 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 17:41:58,475 [INFO] ConfigSets completed
+2024-01-30 17:41:58,475 [INFO] -----------------------Build complete-----------------------
+2024-01-30 17:42:05,415 [INFO] -----------------------Starting build-----------------------
+2024-01-30 17:42:05,422 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 17:42:05,425 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 17:42:05,425 [INFO] ConfigSets completed
+2024-01-30 17:42:05,425 [INFO] -----------------------Build complete-----------------------
+2024-01-30 18:42:11,764 [INFO] -----------------------Starting build-----------------------
+2024-01-30 18:42:11,768 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 18:42:11,770 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 18:42:11,772 [INFO] Running config AWSEBBaseConfig
+2024-01-30 18:42:12,118 [INFO] Command clearbackupfiles succeeded
+2024-01-30 18:42:12,120 [INFO] ConfigSets completed
+2024-01-30 18:42:12,121 [INFO] -----------------------Build complete-----------------------
+2024-01-30 18:42:16,935 [INFO] -----------------------Starting build-----------------------
+2024-01-30 18:42:16,942 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 18:42:16,946 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 18:42:16,946 [INFO] ConfigSets completed
+2024-01-30 18:42:16,946 [INFO] -----------------------Build complete-----------------------
+2024-01-30 18:42:23,038 [INFO] -----------------------Starting build-----------------------
+2024-01-30 18:42:23,052 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 18:42:23,064 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 18:42:23,067 [INFO] ConfigSets completed
+2024-01-30 18:42:23,067 [INFO] -----------------------Build complete-----------------------
+2024-01-30 19:42:29,538 [INFO] -----------------------Starting build-----------------------
+2024-01-30 19:42:29,544 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 19:42:29,546 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 19:42:29,549 [INFO] Running config AWSEBBaseConfig
+2024-01-30 19:42:29,942 [INFO] Command clearbackupfiles succeeded
+2024-01-30 19:42:29,943 [INFO] ConfigSets completed
+2024-01-30 19:42:29,943 [INFO] -----------------------Build complete-----------------------
+2024-01-30 19:42:34,433 [INFO] -----------------------Starting build-----------------------
+2024-01-30 19:42:34,438 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 19:42:34,441 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 19:42:34,442 [INFO] ConfigSets completed
+2024-01-30 19:42:34,442 [INFO] -----------------------Build complete-----------------------
+2024-01-30 19:42:39,786 [INFO] -----------------------Starting build-----------------------
+2024-01-30 19:42:39,791 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 19:42:39,794 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 19:42:39,794 [INFO] ConfigSets completed
+2024-01-30 19:42:39,794 [INFO] -----------------------Build complete-----------------------
+2024-01-30 20:42:46,191 [INFO] -----------------------Starting build-----------------------
+2024-01-30 20:42:46,197 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 20:42:46,201 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 20:42:46,204 [INFO] Running config AWSEBBaseConfig
+2024-01-30 20:42:46,562 [INFO] Command clearbackupfiles succeeded
+2024-01-30 20:42:46,564 [INFO] ConfigSets completed
+2024-01-30 20:42:46,564 [INFO] -----------------------Build complete-----------------------
+2024-01-30 20:42:50,807 [INFO] -----------------------Starting build-----------------------
+2024-01-30 20:42:50,813 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 20:42:50,815 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 20:42:50,815 [INFO] ConfigSets completed
+2024-01-30 20:42:50,815 [INFO] -----------------------Build complete-----------------------
+2024-01-30 20:42:56,679 [INFO] -----------------------Starting build-----------------------
+2024-01-30 20:42:56,684 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 20:42:56,686 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 20:42:56,686 [INFO] ConfigSets completed
+2024-01-30 20:42:56,686 [INFO] -----------------------Build complete-----------------------
+2024-01-30 21:43:03,184 [INFO] -----------------------Starting build-----------------------
+2024-01-30 21:43:03,189 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 21:43:03,192 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 21:43:03,194 [INFO] Running config AWSEBBaseConfig
+2024-01-30 21:43:03,561 [INFO] Command clearbackupfiles succeeded
+2024-01-30 21:43:03,562 [INFO] ConfigSets completed
+2024-01-30 21:43:03,563 [INFO] -----------------------Build complete-----------------------
+2024-01-30 21:43:08,226 [INFO] -----------------------Starting build-----------------------
+2024-01-30 21:43:08,232 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 21:43:08,235 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 21:43:08,235 [INFO] ConfigSets completed
+2024-01-30 21:43:08,235 [INFO] -----------------------Build complete-----------------------
+2024-01-30 21:43:13,509 [INFO] -----------------------Starting build-----------------------
+2024-01-30 21:43:13,514 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 21:43:13,516 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 21:43:13,517 [INFO] ConfigSets completed
+2024-01-30 21:43:13,517 [INFO] -----------------------Build complete-----------------------
+2024-01-30 22:43:19,866 [INFO] -----------------------Starting build-----------------------
+2024-01-30 22:43:19,873 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 22:43:19,876 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 22:43:19,879 [INFO] Running config AWSEBBaseConfig
+2024-01-30 22:43:20,274 [INFO] Command clearbackupfiles succeeded
+2024-01-30 22:43:20,275 [INFO] ConfigSets completed
+2024-01-30 22:43:20,275 [INFO] -----------------------Build complete-----------------------
+2024-01-30 22:43:24,564 [INFO] -----------------------Starting build-----------------------
+2024-01-30 22:43:24,569 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 22:43:24,571 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 22:43:24,571 [INFO] ConfigSets completed
+2024-01-30 22:43:24,571 [INFO] -----------------------Build complete-----------------------
+2024-01-30 22:43:29,742 [INFO] -----------------------Starting build-----------------------
+2024-01-30 22:43:29,747 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 22:43:29,749 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 22:43:29,749 [INFO] ConfigSets completed
+2024-01-30 22:43:29,749 [INFO] -----------------------Build complete-----------------------
+2024-01-30 23:43:36,181 [INFO] -----------------------Starting build-----------------------
+2024-01-30 23:43:36,186 [INFO] Running configSets: _OnInstanceReboot
+2024-01-30 23:43:36,189 [INFO] Running configSet _OnInstanceReboot
+2024-01-30 23:43:36,192 [INFO] Running config AWSEBBaseConfig
+2024-01-30 23:43:36,612 [INFO] Command clearbackupfiles succeeded
+2024-01-30 23:43:36,613 [INFO] ConfigSets completed
+2024-01-30 23:43:36,613 [INFO] -----------------------Build complete-----------------------
+2024-01-30 23:43:41,145 [INFO] -----------------------Starting build-----------------------
+2024-01-30 23:43:41,150 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-30 23:43:41,152 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-30 23:43:41,152 [INFO] ConfigSets completed
+2024-01-30 23:43:41,152 [INFO] -----------------------Build complete-----------------------
+2024-01-30 23:43:46,985 [INFO] -----------------------Starting build-----------------------
+2024-01-30 23:43:46,990 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-30 23:43:46,992 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-30 23:43:46,992 [INFO] ConfigSets completed
+2024-01-30 23:43:46,992 [INFO] -----------------------Build complete-----------------------
+2024-01-31 00:43:53,237 [INFO] -----------------------Starting build-----------------------
+2024-01-31 00:43:53,242 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 00:43:53,244 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 00:43:53,246 [INFO] Running config AWSEBBaseConfig
+2024-01-31 00:43:53,549 [INFO] Command clearbackupfiles succeeded
+2024-01-31 00:43:53,551 [INFO] ConfigSets completed
+2024-01-31 00:43:53,551 [INFO] -----------------------Build complete-----------------------
+2024-01-31 00:43:57,975 [INFO] -----------------------Starting build-----------------------
+2024-01-31 00:43:57,980 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 00:43:57,982 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 00:43:57,982 [INFO] ConfigSets completed
+2024-01-31 00:43:57,983 [INFO] -----------------------Build complete-----------------------
+2024-01-31 00:44:03,806 [INFO] -----------------------Starting build-----------------------
+2024-01-31 00:44:03,812 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 00:44:03,815 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 00:44:03,815 [INFO] ConfigSets completed
+2024-01-31 00:44:03,816 [INFO] -----------------------Build complete-----------------------
+2024-01-31 01:44:10,265 [INFO] -----------------------Starting build-----------------------
+2024-01-31 01:44:10,269 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 01:44:10,271 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 01:44:10,273 [INFO] Running config AWSEBBaseConfig
+2024-01-31 01:44:10,618 [INFO] Command clearbackupfiles succeeded
+2024-01-31 01:44:10,619 [INFO] ConfigSets completed
+2024-01-31 01:44:10,619 [INFO] -----------------------Build complete-----------------------
+2024-01-31 01:44:15,175 [INFO] -----------------------Starting build-----------------------
+2024-01-31 01:44:15,181 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 01:44:15,185 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 01:44:15,185 [INFO] ConfigSets completed
+2024-01-31 01:44:15,185 [INFO] -----------------------Build complete-----------------------
+2024-01-31 01:44:20,288 [INFO] -----------------------Starting build-----------------------
+2024-01-31 01:44:20,296 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 01:44:20,300 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 01:44:20,300 [INFO] ConfigSets completed
+2024-01-31 01:44:20,300 [INFO] -----------------------Build complete-----------------------
+2024-01-31 02:44:26,722 [INFO] -----------------------Starting build-----------------------
+2024-01-31 02:44:26,730 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 02:44:26,735 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 02:44:26,737 [INFO] Running config AWSEBBaseConfig
+2024-01-31 02:44:27,117 [INFO] Command clearbackupfiles succeeded
+2024-01-31 02:44:27,118 [INFO] ConfigSets completed
+2024-01-31 02:44:27,118 [INFO] -----------------------Build complete-----------------------
+2024-01-31 02:44:31,730 [INFO] -----------------------Starting build-----------------------
+2024-01-31 02:44:31,735 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 02:44:31,737 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 02:44:31,741 [INFO] ConfigSets completed
+2024-01-31 02:44:31,743 [INFO] -----------------------Build complete-----------------------
+2024-01-31 02:44:37,312 [INFO] -----------------------Starting build-----------------------
+2024-01-31 02:44:37,319 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 02:44:37,322 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 02:44:37,322 [INFO] ConfigSets completed
+2024-01-31 02:44:37,322 [INFO] -----------------------Build complete-----------------------
+2024-01-31 03:44:43,591 [INFO] -----------------------Starting build-----------------------
+2024-01-31 03:44:43,596 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 03:44:43,599 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 03:44:43,603 [INFO] Running config AWSEBBaseConfig
+2024-01-31 03:44:43,988 [INFO] Command clearbackupfiles succeeded
+2024-01-31 03:44:43,989 [INFO] ConfigSets completed
+2024-01-31 03:44:43,989 [INFO] -----------------------Build complete-----------------------
+2024-01-31 03:44:48,364 [INFO] -----------------------Starting build-----------------------
+2024-01-31 03:44:48,371 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 03:44:48,373 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 03:44:48,374 [INFO] ConfigSets completed
+2024-01-31 03:44:48,374 [INFO] -----------------------Build complete-----------------------
+2024-01-31 03:44:53,542 [INFO] -----------------------Starting build-----------------------
+2024-01-31 03:44:53,548 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 03:44:53,549 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 03:44:53,550 [INFO] ConfigSets completed
+2024-01-31 03:44:53,550 [INFO] -----------------------Build complete-----------------------
+2024-01-31 04:44:59,916 [INFO] -----------------------Starting build-----------------------
+2024-01-31 04:44:59,924 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 04:44:59,928 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 04:44:59,931 [INFO] Running config AWSEBBaseConfig
+2024-01-31 04:45:00,410 [INFO] Command clearbackupfiles succeeded
+2024-01-31 04:45:00,411 [INFO] ConfigSets completed
+2024-01-31 04:45:00,412 [INFO] -----------------------Build complete-----------------------
+2024-01-31 04:45:05,172 [INFO] -----------------------Starting build-----------------------
+2024-01-31 04:45:05,181 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 04:45:05,183 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 04:45:05,184 [INFO] ConfigSets completed
+2024-01-31 04:45:05,184 [INFO] -----------------------Build complete-----------------------
+2024-01-31 04:45:11,102 [INFO] -----------------------Starting build-----------------------
+2024-01-31 04:45:11,112 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 04:45:11,114 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 04:45:11,115 [INFO] ConfigSets completed
+2024-01-31 04:45:11,115 [INFO] -----------------------Build complete-----------------------
+2024-01-31 05:45:17,534 [INFO] -----------------------Starting build-----------------------
+2024-01-31 05:45:17,539 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 05:45:17,541 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 05:45:17,543 [INFO] Running config AWSEBBaseConfig
+2024-01-31 05:45:17,997 [INFO] Command clearbackupfiles succeeded
+2024-01-31 05:45:18,001 [INFO] ConfigSets completed
+2024-01-31 05:45:18,002 [INFO] -----------------------Build complete-----------------------
+2024-01-31 05:45:22,626 [INFO] -----------------------Starting build-----------------------
+2024-01-31 05:45:22,631 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 05:45:22,633 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 05:45:22,634 [INFO] ConfigSets completed
+2024-01-31 05:45:22,634 [INFO] -----------------------Build complete-----------------------
+2024-01-31 05:45:28,592 [INFO] -----------------------Starting build-----------------------
+2024-01-31 05:45:28,597 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 05:45:28,600 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 05:45:28,600 [INFO] ConfigSets completed
+2024-01-31 05:45:28,600 [INFO] -----------------------Build complete-----------------------
+2024-01-31 06:45:34,974 [INFO] -----------------------Starting build-----------------------
+2024-01-31 06:45:34,979 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 06:45:34,981 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 06:45:34,984 [INFO] Running config AWSEBBaseConfig
+2024-01-31 06:45:35,379 [INFO] Command clearbackupfiles succeeded
+2024-01-31 06:45:35,380 [INFO] ConfigSets completed
+2024-01-31 06:45:35,380 [INFO] -----------------------Build complete-----------------------
+2024-01-31 06:45:39,765 [INFO] -----------------------Starting build-----------------------
+2024-01-31 06:45:39,772 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 06:45:39,775 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 06:45:39,775 [INFO] ConfigSets completed
+2024-01-31 06:45:39,775 [INFO] -----------------------Build complete-----------------------
+2024-01-31 06:45:44,996 [INFO] -----------------------Starting build-----------------------
+2024-01-31 06:45:45,002 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 06:45:45,005 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 06:45:45,005 [INFO] ConfigSets completed
+2024-01-31 06:45:45,005 [INFO] -----------------------Build complete-----------------------
+2024-01-31 07:45:51,430 [INFO] -----------------------Starting build-----------------------
+2024-01-31 07:45:51,439 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 07:45:51,442 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 07:45:51,444 [INFO] Running config AWSEBBaseConfig
+2024-01-31 07:45:51,850 [INFO] Command clearbackupfiles succeeded
+2024-01-31 07:45:51,851 [INFO] ConfigSets completed
+2024-01-31 07:45:51,851 [INFO] -----------------------Build complete-----------------------
+2024-01-31 07:45:56,230 [INFO] -----------------------Starting build-----------------------
+2024-01-31 07:45:56,234 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 07:45:56,237 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 07:45:56,237 [INFO] ConfigSets completed
+2024-01-31 07:45:56,237 [INFO] -----------------------Build complete-----------------------
+2024-01-31 07:46:02,485 [INFO] -----------------------Starting build-----------------------
+2024-01-31 07:46:02,492 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 07:46:02,495 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 07:46:02,495 [INFO] ConfigSets completed
+2024-01-31 07:46:02,495 [INFO] -----------------------Build complete-----------------------
+2024-01-31 08:46:08,923 [INFO] -----------------------Starting build-----------------------
+2024-01-31 08:46:08,928 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 08:46:08,930 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 08:46:08,932 [INFO] Running config AWSEBBaseConfig
+2024-01-31 08:46:09,309 [INFO] Command clearbackupfiles succeeded
+2024-01-31 08:46:09,311 [INFO] ConfigSets completed
+2024-01-31 08:46:09,311 [INFO] -----------------------Build complete-----------------------
+2024-01-31 08:46:13,909 [INFO] -----------------------Starting build-----------------------
+2024-01-31 08:46:13,914 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 08:46:13,917 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 08:46:13,917 [INFO] ConfigSets completed
+2024-01-31 08:46:13,917 [INFO] -----------------------Build complete-----------------------
+2024-01-31 08:46:19,836 [INFO] -----------------------Starting build-----------------------
+2024-01-31 08:46:19,844 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 08:46:19,849 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 08:46:19,849 [INFO] ConfigSets completed
+2024-01-31 08:46:19,849 [INFO] -----------------------Build complete-----------------------
+2024-01-31 09:46:26,180 [INFO] -----------------------Starting build-----------------------
+2024-01-31 09:46:26,189 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 09:46:26,193 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 09:46:26,195 [INFO] Running config AWSEBBaseConfig
+2024-01-31 09:46:26,569 [INFO] Command clearbackupfiles succeeded
+2024-01-31 09:46:26,573 [INFO] ConfigSets completed
+2024-01-31 09:46:26,573 [INFO] -----------------------Build complete-----------------------
+2024-01-31 09:46:31,179 [INFO] -----------------------Starting build-----------------------
+2024-01-31 09:46:31,184 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 09:46:31,186 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 09:46:31,187 [INFO] ConfigSets completed
+2024-01-31 09:46:31,187 [INFO] -----------------------Build complete-----------------------
+2024-01-31 09:46:36,789 [INFO] -----------------------Starting build-----------------------
+2024-01-31 09:46:36,795 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 09:46:36,798 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 09:46:36,798 [INFO] ConfigSets completed
+2024-01-31 09:46:36,798 [INFO] -----------------------Build complete-----------------------
+2024-01-31 10:46:43,147 [INFO] -----------------------Starting build-----------------------
+2024-01-31 10:46:43,152 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 10:46:43,155 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 10:46:43,157 [INFO] Running config AWSEBBaseConfig
+2024-01-31 10:46:43,509 [INFO] Command clearbackupfiles succeeded
+2024-01-31 10:46:43,510 [INFO] ConfigSets completed
+2024-01-31 10:46:43,510 [INFO] -----------------------Build complete-----------------------
+2024-01-31 10:46:47,683 [INFO] -----------------------Starting build-----------------------
+2024-01-31 10:46:47,694 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 10:46:47,697 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 10:46:47,697 [INFO] ConfigSets completed
+2024-01-31 10:46:47,697 [INFO] -----------------------Build complete-----------------------
+2024-01-31 10:46:53,409 [INFO] -----------------------Starting build-----------------------
+2024-01-31 10:46:53,416 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 10:46:53,418 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 10:46:53,419 [INFO] ConfigSets completed
+2024-01-31 10:46:53,419 [INFO] -----------------------Build complete-----------------------
+2024-01-31 11:46:59,870 [INFO] -----------------------Starting build-----------------------
+2024-01-31 11:46:59,875 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 11:46:59,877 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 11:46:59,879 [INFO] Running config AWSEBBaseConfig
+2024-01-31 11:47:00,338 [INFO] Command clearbackupfiles succeeded
+2024-01-31 11:47:00,340 [INFO] ConfigSets completed
+2024-01-31 11:47:00,343 [INFO] -----------------------Build complete-----------------------
+2024-01-31 11:47:05,252 [INFO] -----------------------Starting build-----------------------
+2024-01-31 11:47:05,257 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 11:47:05,259 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 11:47:05,259 [INFO] ConfigSets completed
+2024-01-31 11:47:05,259 [INFO] -----------------------Build complete-----------------------
+2024-01-31 11:47:11,111 [INFO] -----------------------Starting build-----------------------
+2024-01-31 11:47:11,116 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 11:47:11,118 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 11:47:11,118 [INFO] ConfigSets completed
+2024-01-31 11:47:11,119 [INFO] -----------------------Build complete-----------------------
+2024-01-31 12:47:17,548 [INFO] -----------------------Starting build-----------------------
+2024-01-31 12:47:17,553 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 12:47:17,555 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 12:47:17,558 [INFO] Running config AWSEBBaseConfig
+2024-01-31 12:47:17,936 [INFO] Command clearbackupfiles succeeded
+2024-01-31 12:47:17,937 [INFO] ConfigSets completed
+2024-01-31 12:47:17,937 [INFO] -----------------------Build complete-----------------------
+2024-01-31 12:47:22,135 [INFO] -----------------------Starting build-----------------------
+2024-01-31 12:47:22,154 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 12:47:22,156 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 12:47:22,157 [INFO] ConfigSets completed
+2024-01-31 12:47:22,157 [INFO] -----------------------Build complete-----------------------
+2024-01-31 12:47:28,039 [INFO] -----------------------Starting build-----------------------
+2024-01-31 12:47:28,044 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 12:47:28,046 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 12:47:28,046 [INFO] ConfigSets completed
+2024-01-31 12:47:28,046 [INFO] -----------------------Build complete-----------------------
+2024-01-31 13:47:34,425 [INFO] -----------------------Starting build-----------------------
+2024-01-31 13:47:34,435 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 13:47:34,439 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 13:47:34,442 [INFO] Running config AWSEBBaseConfig
+2024-01-31 13:47:34,865 [INFO] Command clearbackupfiles succeeded
+2024-01-31 13:47:34,866 [INFO] ConfigSets completed
+2024-01-31 13:47:34,867 [INFO] -----------------------Build complete-----------------------
+2024-01-31 13:47:39,388 [INFO] -----------------------Starting build-----------------------
+2024-01-31 13:47:39,396 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 13:47:39,398 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 13:47:39,398 [INFO] ConfigSets completed
+2024-01-31 13:47:39,398 [INFO] -----------------------Build complete-----------------------
+2024-01-31 13:47:45,053 [INFO] -----------------------Starting build-----------------------
+2024-01-31 13:47:45,058 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 13:47:45,060 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 13:47:45,060 [INFO] ConfigSets completed
+2024-01-31 13:47:45,060 [INFO] -----------------------Build complete-----------------------
+2024-01-31 14:47:51,466 [INFO] -----------------------Starting build-----------------------
+2024-01-31 14:47:51,471 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 14:47:51,473 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 14:47:51,475 [INFO] Running config AWSEBBaseConfig
+2024-01-31 14:47:51,847 [INFO] Command clearbackupfiles succeeded
+2024-01-31 14:47:51,848 [INFO] ConfigSets completed
+2024-01-31 14:47:51,848 [INFO] -----------------------Build complete-----------------------
+2024-01-31 14:47:56,215 [INFO] -----------------------Starting build-----------------------
+2024-01-31 14:47:56,226 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 14:47:56,229 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 14:47:56,229 [INFO] ConfigSets completed
+2024-01-31 14:47:56,229 [INFO] -----------------------Build complete-----------------------
+2024-01-31 14:48:02,552 [INFO] -----------------------Starting build-----------------------
+2024-01-31 14:48:02,557 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 14:48:02,559 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 14:48:02,559 [INFO] ConfigSets completed
+2024-01-31 14:48:02,559 [INFO] -----------------------Build complete-----------------------
+2024-01-31 15:48:09,055 [INFO] -----------------------Starting build-----------------------
+2024-01-31 15:48:09,060 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 15:48:09,062 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 15:48:09,064 [INFO] Running config AWSEBBaseConfig
+2024-01-31 15:48:09,438 [INFO] Command clearbackupfiles succeeded
+2024-01-31 15:48:09,439 [INFO] ConfigSets completed
+2024-01-31 15:48:09,439 [INFO] -----------------------Build complete-----------------------
+2024-01-31 15:48:13,754 [INFO] -----------------------Starting build-----------------------
+2024-01-31 15:48:13,759 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 15:48:13,762 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 15:48:13,762 [INFO] ConfigSets completed
+2024-01-31 15:48:13,762 [INFO] -----------------------Build complete-----------------------
+2024-01-31 15:48:19,610 [INFO] -----------------------Starting build-----------------------
+2024-01-31 15:48:19,616 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 15:48:19,618 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 15:48:19,618 [INFO] ConfigSets completed
+2024-01-31 15:48:19,618 [INFO] -----------------------Build complete-----------------------
+2024-01-31 16:48:26,101 [INFO] -----------------------Starting build-----------------------
+2024-01-31 16:48:26,106 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 16:48:26,109 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 16:48:26,111 [INFO] Running config AWSEBBaseConfig
+2024-01-31 16:48:26,440 [INFO] Command clearbackupfiles succeeded
+2024-01-31 16:48:26,442 [INFO] ConfigSets completed
+2024-01-31 16:48:26,442 [INFO] -----------------------Build complete-----------------------
+2024-01-31 16:48:31,001 [INFO] -----------------------Starting build-----------------------
+2024-01-31 16:48:31,008 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 16:48:31,010 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 16:48:31,011 [INFO] ConfigSets completed
+2024-01-31 16:48:31,011 [INFO] -----------------------Build complete-----------------------
+2024-01-31 16:48:36,616 [INFO] -----------------------Starting build-----------------------
+2024-01-31 16:48:36,624 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 16:48:36,628 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 16:48:36,629 [INFO] ConfigSets completed
+2024-01-31 16:48:36,629 [INFO] -----------------------Build complete-----------------------
+2024-01-31 17:48:42,950 [INFO] -----------------------Starting build-----------------------
+2024-01-31 17:48:42,963 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 17:48:42,968 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 17:48:42,972 [INFO] Running config AWSEBBaseConfig
+2024-01-31 17:48:43,404 [INFO] Command clearbackupfiles succeeded
+2024-01-31 17:48:43,407 [INFO] ConfigSets completed
+2024-01-31 17:48:43,407 [INFO] -----------------------Build complete-----------------------
+2024-01-31 17:48:47,807 [INFO] -----------------------Starting build-----------------------
+2024-01-31 17:48:47,812 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 17:48:47,814 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 17:48:47,814 [INFO] ConfigSets completed
+2024-01-31 17:48:47,814 [INFO] -----------------------Build complete-----------------------
+2024-01-31 17:48:53,786 [INFO] -----------------------Starting build-----------------------
+2024-01-31 17:48:53,791 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 17:48:53,793 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 17:48:53,793 [INFO] ConfigSets completed
+2024-01-31 17:48:53,793 [INFO] -----------------------Build complete-----------------------
+2024-01-31 18:49:00,291 [INFO] -----------------------Starting build-----------------------
+2024-01-31 18:49:00,296 [INFO] Running configSets: _OnInstanceReboot
+2024-01-31 18:49:00,298 [INFO] Running configSet _OnInstanceReboot
+2024-01-31 18:49:00,301 [INFO] Running config AWSEBBaseConfig
+2024-01-31 18:49:00,687 [INFO] Command clearbackupfiles succeeded
+2024-01-31 18:49:00,689 [INFO] ConfigSets completed
+2024-01-31 18:49:00,689 [INFO] -----------------------Build complete-----------------------
+2024-01-31 18:49:05,713 [INFO] -----------------------Starting build-----------------------
+2024-01-31 18:49:05,719 [INFO] Running configSets: Infra-EmbeddedPreBuild
+2024-01-31 18:49:05,721 [INFO] Running configSet Infra-EmbeddedPreBuild
+2024-01-31 18:49:05,721 [INFO] ConfigSets completed
+2024-01-31 18:49:05,721 [INFO] -----------------------Build complete-----------------------
+2024-01-31 18:49:11,408 [INFO] -----------------------Starting build-----------------------
+2024-01-31 18:49:11,419 [INFO] Running configSets: Infra-EmbeddedPostBuild
+2024-01-31 18:49:11,424 [INFO] Running configSet Infra-EmbeddedPostBuild
+2024-01-31 18:49:11,425 [INFO] ConfigSets completed
+2024-01-31 18:49:11,425 [INFO] -----------------------Build complete-----------------------

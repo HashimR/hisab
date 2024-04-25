@@ -1,0 +1,9 @@
+env: prod
+
+jwt-key: <secrets-manager>
+
+main-db-host: host.docker.internal
+main-db-port: '3307'
+main-db-name: main
+main-db-username: <secrets-manager>
+main-db-password: <secrets-manager>

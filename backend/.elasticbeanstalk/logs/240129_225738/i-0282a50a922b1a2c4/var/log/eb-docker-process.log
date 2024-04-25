@@ -1,0 +1,20 @@
+2024/01/29 18:18:25.722076 [INFO] Loading Manifest...
+2024/01/29 18:18:25.737067 [INFO] Running command /bin/sh -c /opt/aws/bin/cfn-get-metadata -s arn:aws:cloudformation:eu-west-1:471947097906:stack/awseb-e-8gmkc7rmw6-stack/e739e470-bed0-11ee-9627-0a7a22b9c067 -r AWSEBAutoScalingGroup --region eu-west-1
+2024/01/29 18:18:26.308410 [INFO] Running command /bin/sh -c /opt/aws/bin/cfn-get-metadata -s arn:aws:cloudformation:eu-west-1:471947097906:stack/awseb-e-8gmkc7rmw6-stack/e739e470-bed0-11ee-9627-0a7a22b9c067 -r AWSEBBeanstalkMetadata --region eu-west-1
+2024/01/29 18:18:26.915478 [INFO] Checking if docker is running...
+2024/01/29 18:18:26.915512 [INFO] Fetch current app container id...
+2024/01/29 18:18:26.915553 [INFO] Running command /bin/sh -c docker ps | grep eb858debfb6a
+2024/01/29 18:18:26.962138 [INFO] eb858debfb6a   ca5fa1deae93   "python /tmp/applica…"   9 seconds ago   Up 8 seconds   8000/tcp   nostalgic_keller
+
+2024/01/29 18:18:26.962171 [INFO] Running command /bin/sh -c docker wait  eb858debfb6a
+2024/01/29 18:20:01.839083 [INFO] 137
+
+2024/01/29 18:20:11.116732 [INFO] Loading Manifest...
+2024/01/29 18:20:11.124050 [INFO] Running command /bin/sh -c /opt/aws/bin/cfn-get-metadata -s arn:aws:cloudformation:eu-west-1:471947097906:stack/awseb-e-8gmkc7rmw6-stack/e739e470-bed0-11ee-9627-0a7a22b9c067 -r AWSEBAutoScalingGroup --region eu-west-1
+2024/01/29 18:20:11.774863 [INFO] Running command /bin/sh -c /opt/aws/bin/cfn-get-metadata -s arn:aws:cloudformation:eu-west-1:471947097906:stack/awseb-e-8gmkc7rmw6-stack/e739e470-bed0-11ee-9627-0a7a22b9c067 -r AWSEBBeanstalkMetadata --region eu-west-1
+2024/01/29 18:20:12.463847 [INFO] Checking if docker is running...
+2024/01/29 18:20:12.463880 [INFO] Fetch current app container id...
+2024/01/29 18:20:12.463940 [INFO] Running command /bin/sh -c docker ps | grep f94f9426cbb6
+2024/01/29 18:20:12.505414 [INFO] f94f9426cbb6   ca5fa1deae93   "python /tmp/applica…"   9 seconds ago   Up 8 seconds   8000/tcp   thirsty_mendel
+
+2024/01/29 18:20:12.505446 [INFO] Running command /bin/sh -c docker wait  f94f9426cbb6
